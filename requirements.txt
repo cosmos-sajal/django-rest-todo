@@ -1,0 +1,8 @@
+Django>=3.0.4,<3.1.0
+djangorestframework>=3.11.0,<3.12.0
+psycopg2>=2.8.4,<2.9.0
+flake8>=3.6.0,<3.7.0
+redis>=2.10.3
+django-redis>=4.11.0,<4.12.0
+djangorestframework-simplejwt>=4.4.0,<4.5.0
+Pygments>=2.6.1,<2.7.0
